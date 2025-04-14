@@ -1,0 +1,1 @@
+python -c "import timm; timm.create_model('vit_gigantic_patch14_clip_224.laion2b')"
